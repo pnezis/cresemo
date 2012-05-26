@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/accept.png</file>
+        <file alias="application.png">icons/application.png</file>
+        <file alias="refresh.png">icons/refresh.png</file>
+    </qresource>
+</RCC>
